@@ -1,0 +1,363 @@
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Data.Common.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Net.Http.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Remotion.Linq.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Buffers.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\Remotion.Linq.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Buffers.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp\WinFormsApp\obj\Debug\WinFormsApp.PlayerForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Data.Common.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Net.Http.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Remotion.Linq.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Buffers.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\Remotion.Linq.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Buffers.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.PlayerForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\obj\Debug\WinFormsApp.TeamForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\EPPlus.dll
+C:\Users\Ranil_Khilaviev\Desktop\WinFormsApp — копия2\WinFormsApp\bin\Debug\EPPlus.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Data.Common.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Net.Http.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\EPPlus.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Remotion.Linq.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Buffers.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\EPPlus.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Remotion.Linq.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Buffers.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.PlayerForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.TeamForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Data\winformsapp.mdf
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3\WinFormsApp\bin\Debug\Data\winformsapp_log.ldf
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Data.Common.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Net.Http.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\EPPlus.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Remotion.Linq.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Buffers.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Interactive.Async.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Memory.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\EPPlus.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\Remotion.Linq.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Buffers.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Interactive.Async.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Memory.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.exe.config
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.MainForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.PlayerForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.TeamForm.resources
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\AppData\winformsapp.mdf
+C:\Users\Ranil_Khilaviev\Desktop\Резервная копия\WinFormsApp — копия3 — копия\WinFormsApp\bin\Debug\AppData\winformsapp_log.ldf

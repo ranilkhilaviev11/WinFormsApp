@@ -1,0 +1,9 @@
+﻿CREATE TRIGGER Players_DELETE 
+ON Players
+INSTEAD OF DELETE
+AS
+BEGIN
+	UPDATE Players
+	SET IsDeleted = 1
+	WHERE ID =(SELECT Id FROM deleted)
+END
